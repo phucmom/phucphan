@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\DuAnQuanLyBanHang\Sourecode\.metadata\.plugins\org.eclipse.jdt.core
+4167467629.index
+4186246570.index
+1865797976.index
+3075582482.index
+3312535094.index
